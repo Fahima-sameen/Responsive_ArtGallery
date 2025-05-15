@@ -1,1 +1,2 @@
 # Responsive_ArtGallery
+Developed a responsive web page for an art studio, featuring artist profiles, artwork galleries, and pricing details. The platform offers an intuitive user interface, seamless navigation, and mobile-friendly design. It enhances engagement by integrating high-resolution images, detailed descriptions, and dynamic filtering options, providing an immersive experience for art enthusiasts and buyers.
